@@ -1,13 +1,13 @@
 # Sales-and-operations-planning-repository
 This repository simulates a sales and operations planning using the zero-stock level strategy
+
 ## Git-Github-Azubi-Final-Assignment
-This hosts the final Git & GitHub assignment where we learn how to work with Github.
+This hosts the first out of 3 project from the final Azubi Github program that teaches how to use Github.
 
 ## Assignment
 1. Select 3 projects, your own ones or projects done during the previous part of the Azubi program.
 2. Create one public repository for each project, with a complete and personalized readme file and repository's description.
 3. Commit at least 3 times for each repository while including simple and clear commit's messages, and push.
-4. Finally, commit with the message My 3 repositories has been created, then push your commit.
 
 ## Project description
 In this project, I am going to simulate a sales and operations planning using the zero-stock level strategy. I will write a program that asks the user to enter the following data:
